@@ -1,5 +1,5 @@
 a=int(input("enter value a:"))
-#to find if the given no is is positive or negative
+#to find if the given no is positive or negative
 if(a<0):
 	print(a,"is negative")
 else:
